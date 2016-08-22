@@ -1,0 +1,22 @@
+{
+  "name": "carrito-compras",
+  "version": "1.0.0",
+  "description": "Implementacion de un proyecto de carrito de compras",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RicardoAlvarado23/Carrito.git"
+  },
+  "author": "Ricardo Alvarado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RicardoAlvarado23/Carrito/issues"
+  },
+  "homepage": "https://github.com/RicardoAlvarado23/Carrito#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}

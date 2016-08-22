@@ -1,0 +1,22 @@
+{
+  "name": "carrito-compras",
+  "description": "Implementacion de un proyecto de carrito de compras",
+  "main": "index.html",
+  "authors": [
+    "Ricardo Alvarado"
+  ],
+  "license": "ISC",
+  "homepage": "index.html",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8"
+  }
+}
